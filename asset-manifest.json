@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/simple-clock/static/css/main.82683001.css",
-    "main.js": "/simple-clock/static/js/main.e0131658.js",
+    "main.css": "/simple-clock/static/css/main.8cbce839.css",
+    "main.js": "/simple-clock/static/js/main.8cd0cdac.js",
     "static/media/f0419.ttf": "/simple-clock/static/media/f0419.41ab3bb3e47ae6c9d524.ttf",
     "index.html": "/simple-clock/index.html",
-    "main.82683001.css.map": "/simple-clock/static/css/main.82683001.css.map",
-    "main.e0131658.js.map": "/simple-clock/static/js/main.e0131658.js.map"
+    "main.8cbce839.css.map": "/simple-clock/static/css/main.8cbce839.css.map",
+    "main.8cd0cdac.js.map": "/simple-clock/static/js/main.8cd0cdac.js.map"
   },
   "entrypoints": [
-    "static/css/main.82683001.css",
-    "static/js/main.e0131658.js"
+    "static/css/main.8cbce839.css",
+    "static/js/main.8cd0cdac.js"
   ]
 }
