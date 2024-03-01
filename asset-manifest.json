@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simple-clock/static/css/main.49a118db.css",
+    "main.js": "/simple-clock/static/js/main.92434ef5.js",
+    "static/media/f0419.ttf": "/simple-clock/static/media/f0419.41ab3bb3e47ae6c9d524.ttf",
+    "index.html": "/simple-clock/index.html",
+    "main.49a118db.css.map": "/simple-clock/static/css/main.49a118db.css.map",
+    "main.92434ef5.js.map": "/simple-clock/static/js/main.92434ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a118db.css",
+    "static/js/main.92434ef5.js"
+  ]
+}
