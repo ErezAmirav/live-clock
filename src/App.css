@@ -27,7 +27,7 @@
 }
 
 .myClock {
-  font-size: 40vw;
+  font-size: 37vw;
   color: red;
 }
 
@@ -35,6 +35,6 @@
   font-size: 5vw;
   color: red;
   position: absolute;
-  width: 90%;
-  top: 45vw;
+  width: 100%;
+  top: 40vw;
 }
