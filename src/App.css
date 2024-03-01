@@ -41,5 +41,9 @@
 }
 
 .myDate {
+  font-size: 5vw;
   color: red;
+  position: absolute;
+  width: 100%;
+  top: 70%;
 }

@@ -4,11 +4,15 @@ import '../App.css';
 
 const LiveClock = () => {
   return (
-    <div className='clock-container'>
+    <div className="clock-container">
       <h1 className="myClock">
-        <Clock style={{ fontFamily: 'CustomFont' }} />
+        <Clock
+          interval={1000}
+          ticking={true}
+          style={{ fontFamily: 'CustomFont' }}
+        />
       </h1>
-      <h3 className='myDate'>
+      <h3 className="myDate">
         <Clock format={'D.M.YY'} style={{ fontFamily: 'CustomFont' }} />
       </h3>
     </div>
