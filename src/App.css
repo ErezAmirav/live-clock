@@ -31,6 +31,7 @@
 }
 
 .clock-container {
+  justify-content: center;
   align-items: center;
   text-align: center;
 }
@@ -44,6 +45,6 @@
   font-size: 5vw;
   color: red;
   position: absolute;
-  width: 100%;
+  width: 90%;
   top: 45vw;
 }
