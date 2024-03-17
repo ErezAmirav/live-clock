@@ -36,5 +36,6 @@
   color: red;
   position: absolute;
   width: 100%;
+  height: auto;
   top: 40vw;
 }
