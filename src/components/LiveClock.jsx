@@ -6,14 +6,10 @@ const LiveClock = () => {
   return (
     <div className="clock-container">
       <h1 className="myClock">
-        <Clock
-          interval={1000}
-          ticking={true}
-          style={{ fontFamily: 'CustomFont' }}
-        />
+        <Clock interval={1000} ticking={true} />
       </h1>
       <h3 className="myDate">
-        <Clock format={'D.M.YY'} style={{ fontFamily: 'CustomFont' }} />
+        <Clock format={'D.M.YY'} />
       </h3>
     </div>
   );

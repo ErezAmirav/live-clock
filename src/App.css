@@ -17,7 +17,7 @@
 
 .App {
   text-align: center;
-  
+
 }
 
 .clock-container {
@@ -28,11 +28,13 @@
 
 .myClock {
   font-size: 37vw;
+  font-family: 'customFont';
   color: red;
 }
 
 .myDate {
   font-size: 5vw;
+  font-family: 'customFont';
   color: red;
   position: absolute;
   width: 100%;
