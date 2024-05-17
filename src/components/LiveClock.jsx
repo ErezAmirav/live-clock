@@ -28,7 +28,7 @@ const LiveClock = () => {
   };
 
   return (
-    <>
+    <div>
       {showColorPicker && (
         <div className="color-picker no-background">
           <HexColorPicker
@@ -54,7 +54,7 @@ const LiveClock = () => {
           <Clock format={"D.M.YY"} />
         </h3>
       </div>
-    </>
+    </div>
   );
 };
 
