@@ -1,5 +1,5 @@
-import './App.css';
-import LiveClock from './components/LiveClock.jsx';
+import "./App.css";
+import LiveClock from "./components/LiveClock.jsx";
 function App() {
   return (
     <div className="App">

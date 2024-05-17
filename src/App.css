@@ -1,7 +1,6 @@
 @font-face {
   font-family: "CustomFont";
-  src: local("f0419"),
-    url("./assets/f0419.ttf") format("truetype");
+  src: local("f0419"), url("./assets/f0419.ttf") format("truetype");
 }
 
 * {
@@ -12,12 +11,11 @@
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
-  background-color: black;
 }
 
 .App {
   text-align: center;
-
+  background-color: black;
 }
 
 .clock-container {
@@ -28,16 +26,20 @@
 
 .myClock {
   font-size: 37vw;
-  font-family: 'customFont';
-  color: red;
+  font-family: "customFont";
 }
 
 .myDate {
   font-size: 5vw;
-  font-family: 'customFont';
-  color: red;
+  font-family: "customFont";
   position: absolute;
   width: 100%;
   height: auto;
   top: 40vw;
+}
+
+.color-picker {
+  position: absolute;
+  top: 20%;
+  left: 38.5%;
 }
